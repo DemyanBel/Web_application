@@ -1,2 +1,4 @@
 # Web_application
-This is a code for a web application that displays anime from the list with a rating of 7 and above, anime to watch.
+This is a web application of horror horror game texts, in which your choice leads you to one ending or another. 
+
+The game is not finished yet)
